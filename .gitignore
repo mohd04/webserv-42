@@ -1,0 +1,25 @@
+# hidden files
+.vscode
+.vscode/*
+*.DS_Store
+
+
+# exec and objs files
+webserv
+objs
+
+# generated files from testers
+BasicTester/tests
+www/YoupiBanane/
+
+# logs
+logs/HostToast.log
+
+# workflow files
+output.txt
+out.txt
+err.txt
+tmp.txt
+
+# valgrind file
+valgrind-out.txt
